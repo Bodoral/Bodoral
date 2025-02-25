@@ -2,7 +2,7 @@ My journey into Natural Language Processing began with simple curiosity, but it 
 
 
 - 🔭 I’m currently working on IR and LLM Fine-tunning   
-- 🌱 Intrested in learning low-level optimazation for large model scaling ande serving
+- 🌱 Intrested in learning low-level optimazation for large model scaling and serving
 
 <!--
 **Bodoral/Bodoral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
